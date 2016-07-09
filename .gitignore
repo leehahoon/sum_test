@@ -1,0 +1,4 @@
+*.o
+sum_test
+
+#.gittignore
